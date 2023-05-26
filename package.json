@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "start": "json-server --watch fixtures/db.json --port 3003"
+  },
+  "devDependencies": {
+    "json-server": "^0.17.3"
+  },
+  "name": "mini-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
